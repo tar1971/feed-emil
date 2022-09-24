@@ -1,0 +1,106 @@
+Package: enigma2-plugin-tarek-ajpanel-v5.5.0
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: AMA-Jamry
+Architecture: all
+MD5Sum: aed9e153ad648bf096ed1e7f0aec690e
+Size: 249756
+Filename: enigma2-plugin-tarek-ajpanel-v5.5.0_tarek-hanfy_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-weblinks-ajpanel-v5.5.0
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: AMA-Jamry
+Architecture: all
+MD5Sum: aed9e153ad648bf096ed1e7f0aec690e
+Size: 249756
+Filename: enigma2-plugin-tarek-ajpanel-v5.5.0_tarek-hanfy_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-extensions-1-ajpanel-v5.5.0
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: AMA-Jamry
+Architecture: all
+MD5Sum: aed9e153ad648bf096ed1e7f0aec690e
+Size: 249756
+Filename: enigma2-plugin-tarek-ajpanel-v5.5.0_tarek-hanfy_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-tarek-ajpanel-v7.1.0
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: AMA-Jamry
+Architecture: all
+MD5Sum: a675e2a4608db34c8c3e3638cd1bfd0d
+Size: 280060
+Filename: enigma2-plugin-tarek-ajpanel-v7.1.0_tarek-hanfy_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-weblinks-ajpanel-v7.1.0
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: AMA-Jamry
+Architecture: all
+MD5Sum: a675e2a4608db34c8c3e3638cd1bfd0d
+Size: 280060
+Filename: enigma2-plugin-tarek-ajpanel-v7.1.0_tarek-hanfy_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+Package: enigma2-plugin-tarek-1-ajpanel-v7.1.0
+Version: tarek-hanfy
+Description: Enigma2 Tools
+Maintainer: AMA-Jamry
+Architecture: all
+MD5Sum: a675e2a4608db34c8c3e3638cd1bfd0d
+Size: 280060
+Filename: enigma2-plugin-tarek-ajpanel-v7.1.0_tarek-hanfy_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+
+
+
+
